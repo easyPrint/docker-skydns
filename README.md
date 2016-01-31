@@ -3,7 +3,7 @@ SkyDNS 2 wrapped in a ready-to-use docker container.
 
 ## Usage
 
-Just start up a container and point it's UDP port 53 to where you want to use it.
+Just start up a container and point its UDP port 53 to where you want to use it.
 
 ```bash
 docker run --name dns \
